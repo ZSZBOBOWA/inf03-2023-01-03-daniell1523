@@ -1,0 +1,21 @@
+* {
+    font-family: Georgia;
+}
+#baner {
+background-color: #c75b39;
+padding: 10px;
+text-align: center;
+}
+#lewy {
+    background-color: #FF8A65;
+    width: 25%;
+    height: 500px;
+    padding-top: 50px;
+}
+#prawy {
+    background-color: snow;
+    width: 75%;
+    height: 500px;
+    text-align: center;
+    padding-top: 50px;
+}
